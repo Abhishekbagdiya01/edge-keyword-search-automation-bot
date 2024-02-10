@@ -24,7 +24,7 @@ Before running the script, ensure you have the following installed:
 ## Usage
 
 1. Clone this repository:
-   ```git clone https://github.com/your-username/edge-keyword-search.git```
+   ```git clone https://github.com/Abhishekbagdiya01/edge-keyword-search-automation-bot.git```
 
 2. Install all dependencies
 3. Place the `msedgedriver.exe` executable in the root directory of the project.
